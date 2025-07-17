@@ -82,7 +82,8 @@ The final dashboard was designed to be used by non-technical stakeholders in pro
   - Rating Bucket
 
 > 📷 **Preview the Dashboard**:  
-> ![Dashboard Screenshot](Dashboard_Screenshot_Amazon.png)
+> ![Screenshot](https://drive.google.com/uc?export=view&id=1qpjENOJ1J1s-zBO9gx7z0IzzR5mWPa8p)
+
 
 ---
 
